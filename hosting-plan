@@ -1,0 +1,41 @@
+# Choose hosting plan according to application size
+- Small size application 
+  - Web Hosting or Shared Hosting
+  - In web hosting, multiple websites are hosted on a single physical server, and they share the server's resources (such as CPU, RAM, and Storage).
+  - This is most basic and cost-effective type of hosting, typically used for small websites or persoal blogs.
+  - Hostinger, Godaddy hosting plan
+  - All website share same resources 
+  - Key Features
+    - Shared Resources
+    - Low Cost
+    - Limited Control
+  - Useful for
+    - Small websites, personal blogs, personal portfolio, company website or landing website, static website (should have low traffic)
+    - Users who don't need custom server configurations
+- Medium size application
+  - VPS Hosting (Virtual Private Server Hosting)
+  - VPS hosting uses virtualization technology to partition a single physical server into multiple virtual servers, each operating independently with dedicated 
+    resources.
+  - Features
+    - Dedicated Resources: Each VPS has its own allocated CPU, RAM, and disk space, independent of other VPSs on the same physical server.
+    - Root Access: Users have root or administrative access to their VPS, allowing them to configure the environment and install custom software.
+    - Scalability: VPS can be easily scaled by upgrading resources as needed.
+    - Better performance as compare to Shared Hosting
+  - Useful for
+    - Medium-sized businesses that need more control and better performance
+    - Custom server configurations or need dedicated resoureces without the cost of a dedicated server.
+- Big size or High traffic application
+  - Cloud Hosting
+    - Cloud hosting uses a network of connected servers (the cloud) to host websites and applications. Instead of relying on a single server, resources are 
+      distributed across multiple servers.
+    - This provide high availability, scalability, and redundancy.
+    Feature:
+      - Scalability: Resources can be scaled up or down easily based on demand, which is ideal for webistes with fluctuating traffic.
+      - High Availability: If one server fails, others in the network take over, minimizing downtime.
+      - Pay-As-You-Go: pay only for the resources they use, making it cost-effective for dynamic workloads.
+      - Flexibility: Cloud hosting supports a wide range of configureations, making it suitable for diverse applications, from small webistes to complex, 
+        resource-intensive applications.
+    Useful for
+      - Website and applications with variable or high traffic that require scalability. 
+      - Businesses that need high availability and redundancy.
+      - Application that require load balancing and distributed computing.
